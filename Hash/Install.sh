@@ -5,6 +5,7 @@ git clone https://github.com/Hash-Brews/HashBrew.git
 
 # download python3
 sudo apt install python3
+xbps-install -S python3-pip
 
 # install pip
 sudo apt install pip3
