@@ -19,6 +19,8 @@ sudo pip3 install git
 # alias
 alias hbrun-env='python3 ./HashBrew 1.4.0/HashBrew.py'
 
+alias Hash-Update='python3 ./HashBrew 1.4.0/Hash/Update.py
+
 # Move to the cloned directory
 cd HashBrew 1.4.0
 
